@@ -70,7 +70,6 @@ I have a strong grasp of various algorithms and their applications in computer s
 
 I first discovered my love for coding and problem-solving when I was 13 years old, as I began modifying games and creating servers. Since then, I've continually honed my skills and expanded my knowledge in various domains, always driven by a strong passion for technology and innovation.
 
-![Coding](https://via.placeholder.com/350x200)
 
 Feel free to explore my GitHub repositories, and don't hesitate to reach out if you'd like to collaborate on a project or simply want to connect!
 
