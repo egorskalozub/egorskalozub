@@ -13,9 +13,6 @@ I'm proficient in web development, with expertise in the following technologies:
 * HTML
 * CSS
 * JavaScript
-* React
-* Node.js
-* Express
 
 ### Programming Languages
 
