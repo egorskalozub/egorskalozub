@@ -49,7 +49,3 @@
 * **Cloud**: AWS
 * **Techniques**: OOP, Data Partitioning, Standardization, Normalization
 
----
-
-📝 Note: This README showcases a brief overview of my academic projects 
-
